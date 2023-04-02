@@ -1,0 +1,15 @@
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.csproj.AssemblyReference.cache
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.AssemblyInfoInputs.cache
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.AssemblyInfo.cs
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.csproj.CoreCompileInputs.cache
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\bin\Debug\net6.0\Programme 2.exe
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\bin\Debug\net6.0\Programme 2.deps.json
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\bin\Debug\net6.0\Programme 2.runtimeconfig.json
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\bin\Debug\net6.0\Programme 2.dll
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\bin\Debug\net6.0\Programme 2.pdb
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.dll
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\refint\Programme 2.dll
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.pdb
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\Programme 2.genruntimeconfig.cache
+C:\Users\kavishka sanjaya\source\repos\Programme 2\Programme 2\obj\Debug\net6.0\ref\Programme 2.dll

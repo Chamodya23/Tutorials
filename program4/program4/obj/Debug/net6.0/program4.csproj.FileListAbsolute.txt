@@ -1,0 +1,15 @@
+C:\Users\kavishka sanjaya\source\repos\program4\program4\bin\Debug\net6.0\program4.exe
+C:\Users\kavishka sanjaya\source\repos\program4\program4\bin\Debug\net6.0\program4.deps.json
+C:\Users\kavishka sanjaya\source\repos\program4\program4\bin\Debug\net6.0\program4.runtimeconfig.json
+C:\Users\kavishka sanjaya\source\repos\program4\program4\bin\Debug\net6.0\program4.dll
+C:\Users\kavishka sanjaya\source\repos\program4\program4\bin\Debug\net6.0\program4.pdb
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.csproj.AssemblyReference.cache
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.AssemblyInfoInputs.cache
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.AssemblyInfo.cs
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.csproj.CoreCompileInputs.cache
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.dll
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\refint\program4.dll
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.pdb
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\program4.genruntimeconfig.cache
+C:\Users\kavishka sanjaya\source\repos\program4\program4\obj\Debug\net6.0\ref\program4.dll
